@@ -14,7 +14,7 @@
 - TOEIC 605 (2023.07 😢)
 
 # ⛪️ Educate
-- Boost Camp AI Tech 7th (2024.08~2025.02)
+- NAVER Connect Foundation boostcamp AI Tech 7th (2024.08~2025.02)
 
 # 🌄 Statistics
 ![hobbang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hocheol0303&show_icons=true&theme=cobalt)
