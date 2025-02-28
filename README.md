@@ -15,6 +15,7 @@
 
 # ⛪️ Educate
 - NAVER Connect Foundation boostcamp AI Tech 7th (2024.08~2025.02)
+  - http://www.boostcourse.org/certificate/B20250228-181382?langCode=ko
 
 # 🌄 Statistics
 ![hobbang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hocheol0303&show_icons=true&theme=cobalt)
