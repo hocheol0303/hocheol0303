@@ -1,4 +1,4 @@
-# 👻 Talking Potato Dive Into the AI
+# 👻 호빵맨
 
 # 🎓 History
 - 정석항공고등학교 (항공기계과, 2015.03~2018.02)
