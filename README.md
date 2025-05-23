@@ -13,7 +13,7 @@
 - 용접 기능사 (2015.12)
 - TOEIC 605 (2023.07 😢)
 
-# ⛪️ Educate
+# ⛪️ Education
 - NAVER Connect Foundation boostcamp AI Tech 7th (2024.08~2025.02)
   - http://www.boostcourse.org/certificate/B20250228-181382?langCode=ko
 
