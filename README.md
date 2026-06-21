@@ -11,7 +11,7 @@
 - 컴퓨터응용선반 기능사 (2017.06)
 - 승강기 기능사 (2016.09)
 - 용접 기능사 (2015.12)
-- TOEIC 605 (2023.07 😢)
+- TOEIC 720 (2026.03)
 
 # ⛪️ Education
 - NAVER Connect Foundation boostcamp AI Tech 7th (2024.08~2025.02)
